@@ -10,6 +10,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "engine.h"
+
 
 int main(int argc, char ** argv){
 	FILE *f;
